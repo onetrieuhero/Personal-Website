@@ -20,31 +20,47 @@
     margin-top: -10px;
 }
 
-.bio p{
+#bio p{
     font-size: 20px;
     width: 750px;
 }
 
-.skills p{
+#skills p{
     font-size: 20px;
 }
 
-.courses ul{
+#courses ul{
     margin-top: -5px;
     padding-left: 20px;
     font-size: 20px;
 }
 
-.projects h3{
+#projects h3{
     margin-left: 1em;
 }
 
-.projects ul{
+#projects ul{
     margin-top: -10px;
     font-size: 20px;
 }
 
-.projects a{
+#projects a{
     color: black;
 }
+
+#about{
+    margin-top: -20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#about p{
+    width: 900px;
+    margin: auto;
+}
+
+.page-title{
+    font-size: 55px;
+}
+
 
