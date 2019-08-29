@@ -9,4 +9,4 @@ This is my personal website that hosts information about myself such as:
 * Courses taken
 * Educational Resources Used
 
-My website can be viewed by clicking [here](www.jerrytrieu.com)
+My website can be viewed by clicking [here](https://www.jerrytrieu.com/)
